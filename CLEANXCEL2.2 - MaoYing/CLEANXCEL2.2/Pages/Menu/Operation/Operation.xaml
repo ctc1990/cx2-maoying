@@ -1,0 +1,190 @@
+﻿<Page x:Class="CLEANXCEL2._2.Pages.Menu.Operation.Operation"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CLEANXCEL2._2.Pages.Menu.Operation"
+      xmlns:usercontrols="clr-namespace:CLEANXCEL2._2.UserControls"
+      mc:Ignorable="d"
+      Loaded="Page_Loaded"
+      Unloaded="Page_Unloaded"
+      d:DesignHeight="900" d:DesignWidth="1300"
+      Title="Operation">
+    <Page.Resources>
+        <usercontrols:ProgressToAngleConverter x:Key="ProgressConverter"/>
+        <Style x:Key="OnButtonStyle" TargetType="ToggleButton">
+            <Setter Property="VerticalAlignment" Value="Top"/>
+            <Setter Property="HorizontalAlignment" Value="Right"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ToggleButton">
+                        <Border Cursor="Hand">
+                            <ContentPresenter RecognizesAccessKey="True" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="{x:Type ProgressBar}" x:Key="ProgressBarStyle">
+            <Setter Property="ToolTipService.IsEnabled" Value="False"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type ProgressBar}">
+                        <Grid>
+
+                            <Ellipse
+                                Stroke="{StaticResource PrimaryColor}" 
+                                Height="330" Width="330"/>
+                            <Ellipse 
+                                     Margin="10"
+                                     Fill="{TemplateBinding Background}"/>
+                            <Ellipse  
+                                     Margin="40" 
+                                     Fill="White"/>
+                            <usercontrols:Arc x:Name="TheArc" 
+                                    StrokeThickness="30"
+                                    Stroke="{StaticResource GreenBlueColor}" Margin="10">
+                                <usercontrols:Arc.StartAngle>
+                                    <MultiBinding Converter="{StaticResource ProgressConverter}">
+                                        <Binding Path="Minimum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="." RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </usercontrols:Arc.StartAngle>
+                                <usercontrols:Arc.EndAngle>
+                                    <MultiBinding Converter="{StaticResource ProgressConverter}">
+                                        <Binding Path="Value" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="." RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </usercontrols:Arc.EndAngle>
+                            </usercontrols:Arc>
+
+                            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                                <TextBlock Text="{Binding ToolTip, RelativeSource={RelativeSource TemplatedParent}, StringFormat=\{0:0\}}"
+                                       Style="{StaticResource RadialBarTitle}"
+                                       HorizontalAlignment="Center"/>
+                                <TextBlock Text="{TemplateBinding Tag}"
+                                       Style="{StaticResource Label}"
+                                        TextAlignment="Center"/>
+                                <DockPanel MaxWidth="150">
+                                    <TextBlock
+                                       Text=""
+                                       TextWrapping="Wrap"
+                                       TextAlignment="Center"
+                                       Style="{StaticResource Desc}"/>
+                                </DockPanel>
+                            </StackPanel>
+
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+    <Grid>
+
+        <Grid Grid.Row="1" Margin="0,50">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="300"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0" Panel.ZIndex="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <TextBlock Grid.Row="0" Name="TBPartTitle" Style="{StaticResource H1}" Text="Part"/>
+                <ScrollViewer Grid.Row="1" Template="{StaticResource StandardScrollViewer}"  PanningMode="VerticalOnly"
+                          HorizontalScrollBarVisibility="Hidden" VerticalScrollBarVisibility="Auto"
+                          Margin="0,20,0,0" Width="420" VerticalAlignment="Top" HorizontalAlignment="Left">
+                    <StackPanel Name="PartStackPanel" Grid.Column="2" Width="420">
+                        <!--<RadioButton Name="emptyrecipe" Tag="01" ToolTip="Empty Recipe" Content="9999" Style="{StaticResource RBStandardSelection}" IsChecked="True" GroupName="recipe" Checked="recipe_Checked"/>-->
+                    </StackPanel>
+                </ScrollViewer>
+            </Grid>
+            <Grid Grid.Column="1" Panel.ZIndex="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <TextBlock Grid.Row="0" Name="TBRecipeTitle" Style="{StaticResource H1}" Text="Recipe"/>
+                <ScrollViewer Grid.Row="1" Template="{StaticResource StandardScrollViewer}"  PanningMode="VerticalOnly"
+                          HorizontalScrollBarVisibility="Hidden" VerticalScrollBarVisibility="Auto"
+                          Margin="0,20,0,0" Width="420" VerticalAlignment="Top" HorizontalAlignment="Left">
+                    <StackPanel Name="RecipeStackPanel" Width="420">
+                        <!--<RadioButton Name="emptyrecipe" Tag="01" ToolTip="Empty Recipe" Content="9999" Style="{StaticResource RBStandardSelection}" IsChecked="True" GroupName="recipe" Checked="recipe_Checked"/>-->
+                    </StackPanel>
+                </ScrollViewer>
+            </Grid>
+            <Border Name="BlockedRecipe" Grid.Column="0" Grid.ColumnSpan="2" Visibility="Hidden" Panel.ZIndex="1" Background="{StaticResource Transparent}"/>
+            <StackPanel Grid.Column="2" VerticalAlignment="Top" Margin="0,50,0,0">
+                <!--<CheckBox Name="MainSystem" Style="{StaticResource CBSubMenuRoles}" Content="Main System" Click="SystemStatus_Click"/>-->
+                <CheckBox Name="AutoPreparation" Style="{StaticResource CBSubMenuRoles}" Content="Auto Preparation" Click="SystemStatus_Click"/>
+                <Expander Name="MoreDetails" Header="PreparationStatus" Style="{DynamicResource StandardExpander}">
+                    <StackPanel>
+                        <CheckBox Name="StorageTank1RegularLevel" Style="{StaticResource CBSubMenuRoles}" Content="Storage Tank 1 Sufficient Solvent" IsEnabled="False"/>
+                        <CheckBox Name="ProcessChamberDrainComplete" Style="{StaticResource CBSubMenuRoles}" Content="Process Chamber Drain Completed" IsEnabled="False"/>
+                        <CheckBox Name="ReservoirTankHighVacuum" Style="{StaticResource CBSubMenuRoles}" Content="Reservoir Tank Vacuum Ready" IsEnabled="False"/>
+                        <CheckBox Name="DistillationTankTopUpLevel" Style="{StaticResource CBSubMenuRoles}" Content="Distillation Tank Sufficient Solvent" IsEnabled="False"/>
+                        <CheckBox Name="DistillationTankTemperatureReady" Style="{StaticResource CBSubMenuRoles}" Content="Distillation Tank Temperature Ready" IsEnabled="False"/>
+                    </StackPanel>
+                </Expander>
+                <CheckBox Name="Door" Style="{StaticResource CBSubMenuRoles}" Content="Door" Click="SystemStatus_Click"/>
+                <CheckBox Name="AutoCycle" Style="{StaticResource CBSubMenuRoles}" Content="Auto Cycle" Click="SystemStatus_Click" Visibility="Hidden"/>
+                <ComboBox Name="LogInterval" Style="{StaticResource ComboBoxFlatStyle}" SelectedIndex="0" Margin="70,0,0,0">
+                    <ComboBoxItem>Default</ComboBoxItem>
+                    <ComboBoxItem>1 s</ComboBoxItem>
+                    <ComboBoxItem>2 s</ComboBoxItem>
+                    <ComboBoxItem>5 s</ComboBoxItem>
+                    <ComboBoxItem>10 s</ComboBoxItem>
+                </ComboBox>
+            </StackPanel>
+            <Grid Grid.Column="3" Width="350"
+                Loaded="Grid_Loaded" VerticalAlignment="Top" Margin="0,40,0,0">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Viewbox Grid.Row="0" VerticalAlignment="Center" Width="330">
+                        <Grid>
+
+                            <ProgressBar x:Name="myrad"
+                                         Tag=""
+                                         Value="0"
+                                         ToolTip="0"
+                                         Style="{StaticResource ProgressBarStyle}"
+                                         Width="330" Height="330" />
+                            <!--Value="{Binding ElementName=sliderValue, Path=Value}"-->
+                            <ToggleButton
+                                Name="Start"
+                                Width="350" Height="350"
+                                Style="{StaticResource OnButtonStyle}"
+                                Click="Start_Click"
+                                IsChecked="False">
+                                <Ellipse Name="StartEllipse" Fill="{StaticResource GreenBlueColor}"
+                                    Opacity="0.15"
+                                    Width="250" Height="250" 
+                                    VerticalAlignment="Center"/>
+                            </ToggleButton>
+                        </Grid>
+
+                    </Viewbox>
+                    <TextBlock Name="RecipeName" Grid.Row="1" Style="{StaticResource H1}" Text="" 
+                               HorizontalAlignment="Center" Margin="10" TextWrapping="WrapWithOverflow"
+                               TextAlignment="Center"/>
+                    <TextBlock Name="ProcessName" Grid.Row="3" Style="{StaticResource H1}" Text="READY" 
+                               HorizontalAlignment="Center" Margin="10" TextWrapping="WrapWithOverflow"
+                               TextAlignment="Center"/>
+                </Grid>
+                <!--<Slider Grid.Row="1" Name="sliderValue" 
+                Maximum="100" Value="50"
+                Margin="0,10,0,0"/>-->
+            </Grid>
+        </Grid>
+    </Grid>
+
+</Page>

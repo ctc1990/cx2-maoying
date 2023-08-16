@@ -1,0 +1,57 @@
+﻿<Page x:Class="CLEANXCEL2._2.Pages.Menu.RecipeManagement.Part"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CLEANXCEL2._2.Pages.Menu.RecipeManagement"
+      mc:Ignorable="d" 
+      Loaded="Page_Loaded"
+      d:DesignHeight="1300" d:DesignWidth="1300"
+      Title="Part">
+
+    <Grid Margin="0,30,30,30">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <!--<ListView Grid.Row="2" Grid.Column="0" Name="PartList" Margin="20" PreviewMouseLeftButtonUp="PartList_PreviewMouseLeftButtonUp" Style="{DynamicResource SelectionList}"/>-->
+        <Grid Grid.Column="0" Margin="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" Name="TBRegisteredPart" Style="{StaticResource H1}" Text="Registered Part" HorizontalAlignment="Left"/>
+            <!--<ListView Grid.Row="2" Grid.Column="0" Name="ProcessList" Margin="20" PreviewMouseLeftButtonUp="ProcessList_PreviewMouseLeftButtonUp" Style="{DynamicResource SelectionList}"/>-->
+            <ScrollViewer Grid.Row="1" Margin="0,50,0,0" Width="420"
+                      Template="{StaticResource StandardScrollViewer}" PanningMode="VerticalOnly"
+                      VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled">
+                <StackPanel Name="PartList"/>
+            </ScrollViewer>
+        </Grid>
+
+        <Grid Grid.Column="1" Margin="70,10,0,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="4*"/>
+                <ColumnDefinition Width="6*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Name="TBPartNameTitle" Grid.Row="0" Grid.Column="0" Text="Part Name" Width="350" Style="{StaticResource H3}" HorizontalAlignment="Left"/>
+            <TextBox Grid.Row="1" Grid.Column="0"  Name="TBPartName" Style="{StaticResource TextBox}" Width="350" HorizontalAlignment="Left"/>
+            <StackPanel Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2">
+                <TextBlock Name="TBDescriptionTitle" Text="Description" Style="{StaticResource H3}" Margin="0,20,0,0"/>
+                <TextBox Name="TBDescription" Style="{StaticResource TextBox}" Margin="0,10,0,0"/>
+                <TextBlock Name="TBRecipeIDTitle" Text="Recipe ID" Style="{StaticResource H3}" Margin="0,20,0,0"/>
+                <ComboBox Name="CBRecipeID" Style="{StaticResource ComboBoxFlatStyle}" Margin="0,10,0,0"/>
+                <TextBlock Name="TBBatchNoTitle" Text="Batch No" Style="{StaticResource H3}" Margin="0,20,0,0"/>
+                <TextBox Name="TBBatchNo" Style="{StaticResource TextBox}" Margin="0,10,0,0"/>
+                
+                <Button Name="Save" Grid.Row="0" Grid.Column="2" Grid.RowSpan="2" Style="{StaticResource StandardButton}" Content="Save" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="20" Click="Save_Click"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="CLEANXCEL2._2.UserControls.ConditionButton"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CLEANXCEL2._2.UserControls"
+             Name="userControl"
+             Width="250"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <RadioButton Grid.Row="0" Grid.RowSpan="2" Style="{StaticResource RBEquipmentSelection}" Checked="RadioButton_Checked"
+                     Tag="{Binding Label, ElementName=userControl, Mode=TwoWay}" Name="RBConditionButton"
+                     ToolTip="{Binding EquipmentName, ElementName=userControl, Mode=TwoWay}" 
+                     Content="{Binding Description, ElementName=userControl, Mode=TwoWay}"/>
+
+        <Ellipse
+            x:Name="start"
+            Grid.Row="0" Grid.Column="1"
+            HorizontalAlignment="Right"
+            Margin="0,0,20,0"
+            Width="20" Height="20"
+            Visibility="Hidden"
+            Fill="{StaticResource GreenBlueColor}"
+            IsEnabled="False"/>
+
+        <Ellipse 
+            x:Name="stop"
+            Grid.Row="1" Grid.Column="1"
+            HorizontalAlignment="Right"
+            Margin="0,0,20,0"
+            Width="20" Height="20"
+            Visibility="Hidden"
+            Fill="{StaticResource RedPinkColor}"
+            IsEnabled="False"/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,61 @@
+﻿<Page x:Class="CLEANXCEL2._2.Pages.Menu.Analytics.StatusDiagram"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:chartingToolkit="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+      xmlns:local="clr-namespace:CLEANXCEL2._2.Pages.Menu.Analytics"
+      mc:Ignorable="d" 
+      Loaded="Page_Loaded"
+      d:DesignHeight="300" d:DesignWidth="1300"
+      Title="StatusDiagram">
+
+    <Grid Margin="-10,30,30,30">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Column="0" Text="" Style="{StaticResource H1}" HorizontalAlignment="Left"/>
+            <ComboBox Grid.Column="3" Name="RecipeSelection" Style="{StaticResource ComboBoxFlatStyle}" 
+                  Width="300" DisplayMemberPath="{Binding Path=Text}" Margin="20,0,0,0" HorizontalAlignment="Left"/>
+            <Button Grid.Column="4" Name="bAnalyse" Style="{StaticResource StandardButton}" Content="Analyse" Click="Analyse_Click" Width="200" Margin="20,0,0,0"/>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Top" Text="LABEL" Name="YAxisLabel"
+                   Style="{StaticResource Label}" Margin="20"/>
+            <ScrollViewer Grid.Row="1" Template="{StaticResource StandardScrollViewer}" VerticalScrollBarVisibility="Auto" Margin="10,0">
+                <chartingToolkit:Chart Grid.Row="1" Grid.Column="0" Title=""
+                               Name="TimelineChart" Style="{DynamicResource GraphChart}" >
+                    <chartingToolkit:Chart.Axes>
+                        <chartingToolkit:LinearAxis Minimum="0" Orientation="X" Interval="100" ShowGridLines="True" AxisLabelStyle="{StaticResource AxisLabelStyle}"></chartingToolkit:LinearAxis>
+                    </chartingToolkit:Chart.Axes>
+                </chartingToolkit:Chart>
+            </ScrollViewer>
+            <TextBlock Grid.Row="2" HorizontalAlignment="Right" VerticalAlignment="Bottom" Text="TIME (s)" Name="XAxisLabel"
+                   Style="{StaticResource Label}" Margin="20"/>
+        </Grid>
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Ellipse Fill="{StaticResource CWhite}" Stroke="{StaticResource GreenBlueColor}" 
+                       Height="20" Width="20" StrokeThickness="1"/>
+            <TextBlock Name="TBActualTitle" Text="Actual" Style="{StaticResource Desc}" Margin="10,0,0,0"/>
+            <Ellipse Fill="{StaticResource CWhite}" Stroke="{StaticResource RedPinkColor}"
+                       Height="20" Width="20" StrokeThickness="1" Margin="200,0,0,0"/>
+            <TextBlock Name="TBSetTitle" Text="Set" Style="{StaticResource Desc}" Margin="10,0,0,0"/>
+        </StackPanel>
+    </Grid>
+</Page>

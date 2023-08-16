@@ -1,0 +1,249 @@
+﻿<Page x:Class="CLEANXCEL2._2.Pages.User.Index"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CLEANXCEL2._2.Pages.User"
+      xmlns:svg="http://sharpvectors.codeplex.com/runtime/"
+      xmlns:svgc="http://sharpvectors.codeplex.com/svgc/"
+      Loaded="Page_Loaded"
+      mc:Ignorable="d" 
+      d:DesignHeight="900" d:DesignWidth="1280"
+      Title="Index">
+
+    <Page.Resources>
+        <Storyboard x:Key="ShowFrame">
+            <ThicknessAnimation
+                Storyboard.TargetName="FrameLocalContainer"
+                Storyboard.TargetProperty="(FrameworkElement.Margin)"                        
+                From="-20,0,0,0" To="0,0,0,0"
+                Duration="{StaticResource GeneralDuration}"
+                DecelerationRatio="0.9"/>
+
+            <DoubleAnimation
+                Storyboard.TargetName="FrameLocalContainer"
+                Storyboard.TargetProperty="(FrameworkElement.Opacity)"  
+                From="0" To="1"
+                Duration="{StaticResource GeneralDuration}"
+                DecelerationRatio="0.9"/>
+        </Storyboard>
+
+        <Storyboard x:Key="HideFrame" Completed="LoadPage">
+            <ThicknessAnimation
+                Storyboard.TargetName="FrameLocalContainer"
+                Storyboard.TargetProperty="(FrameworkElement.Margin)"                        
+                BeginTime="00:00:00" From="0,0,0,0" To="20,0,0,0"
+                Duration="{StaticResource GeneralDuration}"
+                DecelerationRatio="0.9"/>
+
+            <DoubleAnimation
+                Storyboard.TargetName="FrameLocalContainer"
+                Storyboard.TargetProperty="(FrameworkElement.Opacity)"  
+                BeginTime="00:00:00" From="1" To="0"
+                Duration="{StaticResource GeneralDuration}"
+                DecelerationRatio="0.9"/>
+        </Storyboard>
+
+    </Page.Resources>
+
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="Window.Loaded">
+
+            <BeginStoryboard>
+                <Storyboard>
+                    <!-- -->
+                    <ThicknessAnimation
+                        Storyboard.TargetName="Logo"
+                        Storyboard.TargetProperty="(FrameworkElement.Margin)" 
+                        BeginTime="00:00:00"
+                        From="-20,0,0,0" To="0,0,0,0"
+                        Duration="{StaticResource GeneralDuration}">
+                        <ThicknessAnimation.EasingFunction>
+                            <ExponentialEase EasingMode="EaseOut" />
+                        </ThicknessAnimation.EasingFunction>
+                    </ThicknessAnimation>
+
+                    <DoubleAnimation
+                        Storyboard.TargetName="Logo"
+                        Storyboard.TargetProperty="(FrameworkElement.Opacity)"
+                        BeginTime="00:00:00"
+                        From="0" To="1"
+                        Duration="{StaticResource GeneralDuration}">
+                        <DoubleAnimation.EasingFunction>
+                            <ExponentialEase EasingMode="EaseOut" />
+                        </DoubleAnimation.EasingFunction>
+                    </DoubleAnimation>
+
+                    <!--Radio Button Animation-->
+                    <ThicknessAnimation
+                        Storyboard.TargetName="RBSignIn"
+                        Storyboard.TargetProperty="(FrameworkElement.Margin)" 
+                        BeginTime="00:00:00"
+                        From="150,0,0,0" To="0,0,0,0"
+                        Duration="{StaticResource GeneralDuration}">
+                        <ThicknessAnimation.EasingFunction>
+                            <ExponentialEase EasingMode="EaseOut" />
+                        </ThicknessAnimation.EasingFunction>
+                    </ThicknessAnimation>
+
+                    <DoubleAnimation
+                        Storyboard.TargetName="RBSignIn"
+                        Storyboard.TargetProperty="(FrameworkElement.Opacity)"
+                        BeginTime="00:00:00"
+                        From="0" To="1"
+                        Duration="{StaticResource GeneralDuration}">
+                        <DoubleAnimation.EasingFunction>
+                            <ExponentialEase EasingMode="EaseOut" />
+                        </DoubleAnimation.EasingFunction>
+                    </DoubleAnimation>
+
+                    <ThicknessAnimation
+                        Storyboard.TargetName="RBRegistration"
+                        Storyboard.TargetProperty="(FrameworkElement.Margin)" 
+                        BeginTime="00:00:00.5"
+                        From="150,0,0,0" To="0,0,0,0"
+                        Duration="{StaticResource GeneralDuration}">
+                        <ThicknessAnimation.EasingFunction>
+                            <ExponentialEase EasingMode="EaseOut" />
+                        </ThicknessAnimation.EasingFunction>
+                    </ThicknessAnimation>
+
+                    <DoubleAnimation
+                        Storyboard.TargetName="RBRegistration"
+                        Storyboard.TargetProperty="(FrameworkElement.Opacity)"
+                        BeginTime="00:00:00.5"
+                        From="0" To="1"
+                        Duration="{StaticResource GeneralDuration}">
+                        <DoubleAnimation.EasingFunction>
+                            <ExponentialEase EasingMode="EaseOut" />
+                        </DoubleAnimation.EasingFunction>
+                    </DoubleAnimation>
+
+                    <ThicknessAnimation
+                        Storyboard.TargetName="RBPassword"
+                        Storyboard.TargetProperty="(FrameworkElement.Margin)" 
+                        BeginTime="00:00:01"
+                        From="150,0,0,0" To="0,0,0,0"
+                        Duration="{StaticResource GeneralDuration}">
+                        <ThicknessAnimation.EasingFunction>
+                            <ExponentialEase EasingMode="EaseOut" />
+                        </ThicknessAnimation.EasingFunction>
+                    </ThicknessAnimation>
+
+                    <DoubleAnimation
+                        Storyboard.TargetName="RBPassword"
+                        Storyboard.TargetProperty="(FrameworkElement.Opacity)"
+                        BeginTime="00:00:01"
+                        From="0" To="1"
+                        Duration="{StaticResource GeneralDuration}">
+                        <DoubleAnimation.EasingFunction>
+                            <ExponentialEase EasingMode="EaseOut" />
+                        </DoubleAnimation.EasingFunction>
+                    </DoubleAnimation>
+
+                </Storyboard>
+            </BeginStoryboard>
+
+        </EventTrigger>
+    </Page.Triggers>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Style="{StaticResource DimGridSubMenu}"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Border Padding="30">
+            <DockPanel x:Name="Logo"
+                Opacity="0"
+                Panel.ZIndex="100"
+                Width="500"
+                VerticalAlignment="Top"
+                HorizontalAlignment="Left"
+                Grid.Column="0" Grid.Row="0">
+                <svgc:SvgViewbox Source="../../Images/Logos/logo_CX.svg"/>
+            </DockPanel>
+        </Border>
+
+        <DockPanel x:Name="FormPanel"
+            Panel.ZIndex="10"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="0" Grid.Row="0" 
+            RenderTransformOrigin="0,0.5">
+            <Border>
+                <Frame x:Name="FrameLocalContainer"
+                    Loaded="FrameContainerLoaded"
+                    NavigationUIVisibility="Hidden"
+                    Opacity="0"/>
+            </Border>
+        </DockPanel>
+        
+        <ComboBox x:Name="CbxMainLanguage"
+                  Grid.Column="1"
+                  Height="40"
+                  VerticalAlignment="Top"
+                  Margin="0,40,40,0"
+                  Style="{StaticResource ComboBoxFlatStyle}"
+                  SelectedIndex="0"
+                  SelectionChanged="CbxMainLanguage_SelectionChanged">
+            <ComboBoxItem>English</ComboBoxItem>
+            <ComboBoxItem>中文 (简体)</ComboBoxItem>
+            <ComboBoxItem IsEnabled="False">Français</ComboBoxItem>
+            <ComboBoxItem IsEnabled="False">Deutsche</ComboBoxItem>
+            <ComboBoxItem IsEnabled="False">日本語</ComboBoxItem>
+        </ComboBox>
+        
+        <DockPanel x:Name="SubMenuPanel"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="1" Grid.Row="0"
+            RenderTransformOrigin="1,0.5">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Style="{StaticResource DimGridSubMenu}"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="80" />
+                    <RowDefinition Height="80" />
+                    <RowDefinition Height="80" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+
+                <RadioButton x:Name="RBSignIn"
+                    Grid.Row="1" Grid.Column="0"
+                    Content="Sign In"
+                    Style="{StaticResource RBSubMenu}"
+                    Opacity="0"
+                    GroupName="Menu"
+                    IsChecked="False" 
+                    Checked="RBSignIn_Checked">
+                </RadioButton>
+
+                <RadioButton x:Name="RBRegistration"
+                    Grid.Row="2" Grid.Column="0"
+                    Content="Registration"
+                    Style="{StaticResource RBSubMenu}"
+                    Opacity="0"
+                    GroupName="Menu"     
+                    Checked="RBRegistration_Checked">
+                </RadioButton>
+
+                <RadioButton x:Name="RBPassword"
+                    Grid.Row="3" Grid.Column="0"
+                    Content="Password Recovery"
+                    Style="{StaticResource RBSubMenu}"
+                    Opacity="0"
+                    GroupName="Menu"
+                    Checked="RBPassword_Checked">
+                </RadioButton>
+
+            </Grid>
+        </DockPanel>
+
+    </Grid>
+</Page>

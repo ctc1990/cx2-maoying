@@ -1,0 +1,76 @@
+﻿<UserControl x:Class="CLEANXCEL2._2.UserControls.RecipeTable"
+             x:Name="userControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CLEANXCEL2._2.UserControls"
+             HorizontalAlignment="Left"
+             mc:Ignorable="d"
+             Margin="0,5"
+             Height="220"
+             Width="1080"
+             BorderBrush="{StaticResource PrimaryColor}"
+             BorderThickness="1"
+             d:DesignHeight="300" d:DesignWidth="1300">
+    <Grid Background="{StaticResource PrimaryColor}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        
+        <TextBlock Name="title" Margin="20,20,20,0" Style="{StaticResource H3}" Text="{Binding Title, ElementName=userControl}" Foreground="{StaticResource CWhite}"/>
+        <StackPanel Orientation="Horizontal" Margin="0,10,60,0" HorizontalAlignment="Right" VerticalAlignment="Top">
+            <TextBlock Grid.Row="0" Grid.Column="0" Name="TBProcessTimeTitle" Style="{StaticResource Label}" Text="Process Time" Margin="0,0,10,0"/>
+            <TextBlock Grid.Row="0" Grid.Column="1" Name="TBProcessTime" Style="{StaticResource Label}" Text="{Binding ProcessTime, ElementName=userControl, Mode=TwoWay}" Margin="0,0,10,0" Width="50" TextAlignment="Center"/>
+            <TextBlock Grid.Row="0" Grid.Column="2" Style="{StaticResource Label}" Text="s" VerticalAlignment="Center"/>
+        </StackPanel>
+        <Button
+            Name="Protect_DeleteButton"
+            Grid.Row="0"
+            Height="50"
+            HorizontalAlignment="Right"
+            Style="{StaticResource CustomDeleteButton}"
+            PreviewMouseUp="Protect_DeleteButton_PreviewMouseUp">
+        </Button>
+        <Grid Grid.Row="1" Margin="20,0,20,40">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <!--<RowDefinition Height="10"/>
+                <RowDefinition Height="*"/>-->
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1.2*"/>
+                <ColumnDefinition Width="1.0*"/>
+                <ColumnDefinition Width="1.0*"/>
+                <ColumnDefinition Width="1.2*"/>
+                <ColumnDefinition Width="1.0*"/>
+                <ColumnDefinition Width="1.0*"/>
+            </Grid.ColumnDefinitions>
+            <!--<TextBlock Grid.Row="0" Grid.Column="0" Name="TBProcessTimeTitle" Style="{StaticResource Label}" Text="Process Time"/>
+            <TextBox Grid.Row="0" Grid.Column="1" Name="TBProcessTime" Style="{StaticResource H7}" Text="{Binding ProcessTime, ElementName=userControl, Mode=TwoWay}"/>
+            <TextBlock Grid.Row="0" Grid.Column="2" Style="{StaticResource H5}" Text="s" VerticalAlignment="Center"/>-->
+            
+            <TextBlock Grid.Row="0" Grid.Column="0" Name="TBPowerTitle" Style="{StaticResource Label}" Text="Ultrasonic Power"/>
+            <TextBox Grid.Row="0" Grid.Column="1" Name="TBPower" Style="{StaticResource H7}" Text="{Binding Power, ElementName=userControl, Mode=TwoWay}"/>
+            <TextBlock Grid.Row="0" Grid.Column="2" Style="{StaticResource H5}" Text="%" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="0" Grid.Column="3" Name="TBFrequencyTitle" Style="{StaticResource Label}" Text="Ultrasonic Frequency"/>
+            <!--<TextBox Grid.Row="0" Grid.Column="4" Name="TBFrequency" Style="{StaticResource H7}" Text="{Binding Frequency, ElementName=userControl, Mode=TwoWay}"/>-->
+            <ComboBox Grid.Row="0" Grid.Column="4" Name="TBFrequency" Style="{StaticResource ComboBoxFlatStyle}" FontSize="42px" Height="80"
+                      Background="{StaticResource PrimaryColor}" Foreground="{StaticResource CWhite}" HorizontalContentAlignment="Center" 
+                      Text="{Binding Frequency, ElementName=userControl, Mode=TwoWay}" Width="120">
+                <ComboBoxItem>40</ComboBoxItem>
+                <!--<ComboBoxItem>80</ComboBoxItem>-->
+                <ComboBoxItem>132</ComboBoxItem>
+            </ComboBox>
+            <TextBlock Grid.Row="0" Grid.Column="5" Style="{StaticResource H5}" Text="kHz" VerticalAlignment="Center"/>
+
+            <!--<TextBlock Grid.Row="2" Grid.Column="0" Name="TBPulsesTitle" Style="{StaticResource Label}" Text="Pulse(s)"/>
+            <TextBox Grid.Row="2" Grid.Column="1" Name="TBPulse" Style="{StaticResource H7}" Text="{Binding Pulses, ElementName=userControl, Mode=TwoWay}"/>
+            <TextBlock Grid.Row="2" Grid.Column="3" Name="TBVacuumTitle" Style="{StaticResource Label}" Text="Vacuum Level"/>
+            <TextBox Grid.Row="2" Grid.Column="4" Name="TBVacuum" Style="{StaticResource H7}" Text="{Binding VacuumLevel, ElementName=userControl, Mode=TwoWay}"/>-->
+        </Grid>
+        <!--<StackPanel Name="RangeSliderStackPanel" Grid.Row="1" Margin="10,0">
+        </StackPanel>-->
+    </Grid>
+</UserControl>

@@ -1,0 +1,153 @@
+﻿<UserControl x:Name="userControl" x:Class="CLEANXCEL2._2.UserControls.Dial"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CLEANXCEL2._2.UserControls"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300"
+             Height="330" Width="300">
+
+    <UserControl.Resources>
+        <Storyboard x:Key="StartDialAnimation">
+            <!-- Transparent Tray -->
+            <DoubleAnimation Storyboard.TargetName="DialButtonAnimation"
+                Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)"
+                From="1" To="3" Duration="{StaticResource GeneralDuration}"
+                AutoReverse="True" RepeatBehavior="Forever"/>
+            <DoubleAnimation Storyboard.TargetName="DialButtonAnimation"
+                Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)"
+                From="1" To="3" Duration="{StaticResource GeneralDuration}"
+                AutoReverse="True" RepeatBehavior="Forever"/>
+            
+            <DoubleAnimation Storyboard.TargetName="DialButton"
+                Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)"
+                From="1" To="2" Duration="{StaticResource GeneralDuration}"
+                />
+            <DoubleAnimation Storyboard.TargetName="DialButton"
+                Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)"
+                From="1" To="2" Duration="{StaticResource GeneralDuration}"
+                />
+            <DoubleAnimation
+                Storyboard.TargetName="DialButtonAnimation"
+                Storyboard.TargetProperty="(UIElement.Opacity)"
+                From="1" To="0"
+                RepeatBehavior="Forever"
+                AutoReverse="True"
+                Duration="{StaticResource GeneralDuration}"
+                DecelerationRatio="0.9"/>
+        </Storyboard>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="300"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid 
+            IsManipulationEnabled="True" 
+            ManipulationDelta="GridManipulator" 
+            ManipulationStarted="Grid_ManipulationStarted" 
+            ManipulationCompleted="Grid_ManipulationCompleted">
+
+            <ItemsControl>
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <Grid/>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Line
+                            X1="150" Y1="25"
+                            X2="150" Y2="30"
+                            Stroke="{StaticResource PrimaryColor}"
+                            StrokeThickness="1">
+                            <Line.RenderTransform>
+                                <RotateTransform CenterX="150" CenterY="150" Angle="{Binding}"/>
+                            </Line.RenderTransform>
+                        </Line>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+                <sys:Double>000</sys:Double>
+                <sys:Double>036</sys:Double>
+                <sys:Double>072</sys:Double>
+                <sys:Double>108</sys:Double>
+                <sys:Double>144</sys:Double>
+                <sys:Double>180</sys:Double>
+                <sys:Double>216</sys:Double>
+                <sys:Double>252</sys:Double>
+                <sys:Double>288</sys:Double>
+                <sys:Double>324</sys:Double>
+            </ItemsControl>
+
+      
+            <Ellipse x:Name="DialBody"
+                StrokeThickness="2"
+                Stroke="{StaticResource PrimaryColor}"
+                Fill="Transparent" 
+                Margin="30"/>
+            <Grid>
+                <Grid.RenderTransform>
+                    <RotateTransform
+                        CenterX="150" CenterY="150"
+                        Angle="{Binding Angle}"/>
+                </Grid.RenderTransform>
+                <Ellipse x:Name="DialButton"
+                    StrokeThickness="2"
+                    Stroke="{StaticResource GreenBlueColor}"
+                    Fill="{StaticResource CWhite}" 
+                    Height="30" Width="30"
+                    VerticalAlignment="Top" 
+                    Margin="15" RenderTransformOrigin="0.5,0.5">
+                    <Ellipse.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform 
+                                ScaleX="1" ScaleY="1"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+                <Ellipse x:Name="DialButtonAnimation"
+                    StrokeThickness="1"
+                    Stroke="{StaticResource GreenBlueColor}"
+                    Fill="Transparent" 
+                    Height="30" Width="30"
+                    VerticalAlignment="Top"
+                    Margin="15" RenderTransformOrigin="0.5,0.5">
+
+                    <Ellipse.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform 
+                                ScaleX="1" ScaleY="1"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+            </Grid>
+        </Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock
+                HorizontalAlignment="Center"
+                Text="{Binding Amount, ElementName=userControl}"
+                Style="{StaticResource DialDisplay}"/>
+            <TextBlock
+                HorizontalAlignment="Center"
+                Text="{Binding Unit, ElementName=userControl}"
+                Style="{StaticResource H5}"/>
+        </StackPanel>
+
+        <TextBlock Grid.Row="1"
+                HorizontalAlignment="Center"
+                Text="{Binding Title, ElementName=userControl}"
+                Style="{StaticResource DialUnit}"
+                TextWrapping="WrapWithOverflow"
+                TextAlignment="Center"/>
+    </Grid>
+
+
+</UserControl>

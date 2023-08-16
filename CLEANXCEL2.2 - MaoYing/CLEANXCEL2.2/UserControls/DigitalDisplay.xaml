@@ -1,0 +1,118 @@
+﻿<UserControl x:Class="CLEANXCEL2._2.UserControls.DigitalDisplay"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CLEANXCEL2._2.UserControls"
+             Loaded="UserControl_Loaded"
+             mc:Ignorable="d" 
+             Margin="{StaticResource FiboSeq1}"
+             d:DesignHeight="300" d:DesignWidth="350">
+    <UserControl.Resources>
+        
+        <Style x:Key="Label2" TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="{StaticResource Roboto}" />
+            <Setter Property="FontSize" Value="18px" />
+            <Setter Property="FontWeight" Value="Normal" />
+            <Setter Property="Typography.Capitals" Value="AllSmallCaps" />
+            <Setter Property="Foreground" Value="{StaticResource PrimaryColor}" />
+        </Style>
+    </UserControl.Resources>
+    <Grid>
+        <Border BorderThickness="1">
+            <StackPanel Width="250"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <DockPanel Height="40" Grid.Row="0"
+                       Background="#CACBCE">
+                        <TextBlock Text="{Binding EqName}"
+                           Style="{StaticResource DDTitle}"
+                           VerticalAlignment="Bottom"
+                           HorizontalAlignment="Left"
+                           Padding="20,0"/>
+                    </DockPanel>
+                    <DockPanel Height="20" Grid.Row="1"
+                       Background="#CACBCE">
+                        <TextBlock Text="{Binding Location}"
+                           Style="{StaticResource DDSubTitle}"
+                           VerticalAlignment="Top"
+                           HorizontalAlignment="Left"
+                           Padding="20,0"/>
+                    </DockPanel>
+                </Grid>
+                <Grid Background="#EAEBEC">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <DockPanel Grid.Column="0" Height="30"
+                       Margin="0,2,0,0">
+                        <TextBlock Text="{Binding MeasurementName}"
+                           Style="{StaticResource Label2}"
+                           Padding="20,0" VerticalAlignment="Center"/>
+                    </DockPanel>
+                    <DockPanel Grid.Column="1" Height="30"
+                       Margin="0,2,0,0">
+                        <TextBlock Text="{Binding Unit}"
+                           Style="{StaticResource Label}"
+                           Padding="20,0" 
+                           VerticalAlignment="Center" HorizontalAlignment="Right"/>
+                    </DockPanel>
+                </Grid>
+                <DockPanel Height="42"
+                       Background="#EAEBEC">
+                    <TextBlock Text="{Binding ActualValue, StringFormat=N2}"
+                           Style="{StaticResource DDActualValue}"
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Center"/>
+                </DockPanel>
+                <Grid Background="#EAEBEC">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <DockPanel Grid.Column="0" Height="30" HorizontalAlignment="Right"
+                       Margin="0,2,0,0">
+                        <TextBlock Text="{Binding Logic}"
+                           Style="{StaticResource Label}"
+                           Padding="0,0" 
+                           VerticalAlignment="Center" HorizontalAlignment="Right"/>
+                    </DockPanel>
+                    <DockPanel Grid.Column="1" Height="30"
+                       Margin="0,2,0,0">
+                        <TextBlock Text="{Binding LogicName}"
+                           Style="{StaticResource Label2}"
+                           Padding="10,0,20,0" VerticalAlignment="Center"/>
+                    </DockPanel>
+                </Grid>
+                <DockPanel Height="30"
+                       Margin="0,0,0,0"
+                       Background="#CACBCE">
+                    <DockPanel Width="120"
+                           Background="{StaticResource PrimaryColor}">
+                        <TextBlock Name="TBSetValueTitle" Text="SET VALUE"
+                               Foreground="White"
+                               FontWeight="Thin"
+                               FontFamily="{StaticResource Proxima}"
+                               FontSize="13"
+                               VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    </DockPanel>
+                    <DockPanel HorizontalAlignment="Right">
+                        <TextBlock Text="{Binding ValueSet, StringFormat=N2}"
+                               Padding="20,10"
+                               Foreground="{StaticResource PrimaryColor}"
+                               FontWeight="Regular"
+                               FontFamily="{StaticResource Roboto}"
+                               FontSize="14"
+                               VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    </DockPanel>
+                </DockPanel>
+            </StackPanel>
+        </Border>
+    </Grid>
+</UserControl>

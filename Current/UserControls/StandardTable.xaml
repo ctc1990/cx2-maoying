@@ -1,0 +1,38 @@
+﻿<UserControl x:Class="CLEANXCEL2._2.UserControls.StandardTable"
+             x:Name="userControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CLEANXCEL2._2.UserControls"
+             HorizontalAlignment="Left"
+             mc:Ignorable="d"
+             Margin="0,5"
+             Width="1080"
+             BorderBrush="{StaticResource PrimaryColor}"
+             BorderThickness="1"
+             d:DesignHeight="300" d:DesignWidth="1300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" Grid.RowSpan="2" Background="{StaticResource PrimaryColor}"/>
+        <TextBlock Margin="20" Name="title" Style="{StaticResource H3}" Text="{Binding Title, ElementName=userControl}" Foreground="{StaticResource CWhite}"/>
+        <CheckBox Name="CBAlign" Grid.Row="0" Margin="0,0,70,0" 
+                  Style="{StaticResource DataGridCheckBoxStyle1}" 
+                  Background="{StaticResource SecondaryColor}" 
+                  HorizontalAlignment="Right"/>
+
+        <Button
+            Name="Protect_DeleteButton"
+            Grid.Row="0"
+            Height="50"
+            HorizontalAlignment="Right"
+            Style="{StaticResource CustomDeleteButton}"
+            PreviewMouseUp="Protect_DeleteButton_PreviewMouseUp">
+        </Button>
+        <StackPanel Name="RangeSliderStackPanel" Grid.Row="1" Margin="0" Background="{StaticResource CWhite}"/>
+    </Grid>
+</UserControl>

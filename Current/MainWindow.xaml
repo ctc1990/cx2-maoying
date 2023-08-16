@@ -1,0 +1,171 @@
+﻿<Window x:Class="CLEANXCEL2._2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CLEANXCEL2._2"
+        xmlns:tb="http://www.hardcodet.net/taskbar"
+        mc:Ignorable="d"
+        Title="CLEANXCEL 2"
+        HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+        WindowState="Maximized" WindowStyle="None"
+        d:DesignWidth ="1280" d:DesignHeight ="720" StateChanged="Window_StateChanged" >
+
+    <Window.Resources>
+        <Storyboard x:Key="MyPopUp">
+            <DoubleAnimation Storyboard.TargetName="DisabledEffect"
+                             Storyboard.TargetProperty="(DockPanel.Opacity)"
+                             BeginTime="0:0:0"
+                             Duration="{StaticResource GeneralDuration}"
+                             From="0" To="0.92">
+                <DoubleAnimation.EasingFunction>
+                    <ExponentialEase EasingMode="EaseIn" />
+                </DoubleAnimation.EasingFunction>
+            </DoubleAnimation>
+            <!--<DoubleAnimation Storyboard.TargetName="blurEffect"  
+                             Storyboard.TargetProperty="Radius"  
+                             From="0" To="2"
+                             BeginTime="0:0:0.3"
+                             Duration="{StaticResource GeneralDuration}">
+                <DoubleAnimation.EasingFunction>
+                    <ExponentialEase EasingMode="EaseIn" />
+                </DoubleAnimation.EasingFunction>
+            </DoubleAnimation>-->
+            <Int32Animation  Storyboard.TargetName="DisabledEffect"
+                             Storyboard.TargetProperty="(Panel.ZIndex)"
+                             BeginTime="0:0:0"
+                             Duration="0:0:0"
+                             From="119" To="124">
+                <Int32Animation.EasingFunction>
+                    <ExponentialEase EasingMode="EaseIn"/>
+                </Int32Animation.EasingFunction>
+            </Int32Animation>
+
+            <DoubleAnimation Storyboard.TargetName="PopupContainer"
+                             Storyboard.TargetProperty="(Frame.Opacity)"
+                             BeginTime="0:0:0.3"
+                             Duration="{StaticResource GeneralDuration}"
+                             From="0" To="1">
+                <DoubleAnimation.EasingFunction>
+                    <ExponentialEase EasingMode="EaseIn" />
+                </DoubleAnimation.EasingFunction>
+            </DoubleAnimation>
+            <ThicknessAnimation
+                        Storyboard.TargetName="PopupContainer"
+                        Storyboard.TargetProperty="(Frame.Margin)" 
+                        BeginTime="00:00:0.3"
+                        Duration="{StaticResource GeneralDuration}"
+                        From="-20,0,0,0" To="0,0,0,0"
+                        DecelerationRatio="0.9">
+                <ThicknessAnimation.EasingFunction>
+                    <ExponentialEase EasingMode="EaseOut" />
+                </ThicknessAnimation.EasingFunction>
+            </ThicknessAnimation>
+            <Int32Animation Storyboard.TargetName="PopupContainer"
+                                          Storyboard.TargetProperty="(Panel.ZIndex)"
+                                          BeginTime="0:0:0"
+                                          Duration="0:0:0"
+                                          From="118" To="125">
+                <Int32Animation.EasingFunction>
+                    <ExponentialEase EasingMode="EaseIn"/>
+                </Int32Animation.EasingFunction>
+            </Int32Animation>
+        </Storyboard>
+        <Storyboard x:Key="MyPopDown" Completed="MyPopDown_Completed">
+            <DoubleAnimation Storyboard.TargetName="PopupContainer"
+                             Storyboard.TargetProperty="(Frame.Opacity)"
+                             BeginTime="0:0:0"
+                             Duration="{StaticResource GeneralDuration}"
+                             From="1" To="0">
+                <DoubleAnimation.EasingFunction>
+                    <ExponentialEase EasingMode="EaseOut" />
+                </DoubleAnimation.EasingFunction>
+            </DoubleAnimation>
+            <ThicknessAnimation Storyboard.TargetName="PopupContainer"
+                                Storyboard.TargetProperty="(Frame.Margin)" 
+                                BeginTime="0:0:0"
+                                Duration="{StaticResource GeneralDuration}"
+                                From="0,0,0,0" To="20,0,0,0"
+                                DecelerationRatio="0.9">
+                <ThicknessAnimation.EasingFunction>
+                    <ExponentialEase EasingMode="EaseOut" />
+                </ThicknessAnimation.EasingFunction>
+            </ThicknessAnimation>
+            <Int32Animation Storyboard.TargetName="PopupContainer"
+                                          Storyboard.TargetProperty="(Panel.ZIndex)"
+                                          BeginTime="0:0:0.8"
+                                          Duration="0:0:0"
+                                          From="125" To="118">
+                <Int32Animation.EasingFunction>
+                    <ExponentialEase EasingMode="EaseOut"/>
+                </Int32Animation.EasingFunction>
+            </Int32Animation>
+
+            <DoubleAnimation Storyboard.TargetName="DisabledEffect"
+                             Storyboard.TargetProperty="(DockPanel.Opacity)"
+                             BeginTime="0:0:0.3"
+                             Duration="{StaticResource GeneralDuration}"
+                             From="0.92" To="0">
+                <DoubleAnimation.EasingFunction>
+                    <ExponentialEase EasingMode="EaseOut" />
+                </DoubleAnimation.EasingFunction>
+            </DoubleAnimation>
+            <!--<DoubleAnimation Storyboard.TargetName="blurEffect"  
+                             Storyboard.TargetProperty="Radius"  
+                             From="2" To="0"
+                             BeginTime="0:0:0.4"
+                             Duration="0:0:0">
+                <DoubleAnimation.EasingFunction>
+                    <ExponentialEase EasingMode="EaseOut" />
+                </DoubleAnimation.EasingFunction>
+            </DoubleAnimation>-->
+            <Int32Animation  Storyboard.TargetName="DisabledEffect"
+                             Storyboard.TargetProperty="(Panel.ZIndex)"
+                             BeginTime="0:0:0.8"
+                             Duration="0:0:0.0"
+                             From="124" To="119">
+                <Int32Animation.EasingFunction>
+                    <ExponentialEase EasingMode="EaseOut"/>
+                </Int32Animation.EasingFunction>
+            </Int32Animation>
+        </Storyboard>
+    </Window.Resources>
+    
+    <Grid>
+
+        <Frame x:Name="FrameContainer" 
+                    NavigationUIVisibility="Hidden"
+                    Loaded="FrameContainerLoaded"
+                    Panel.ZIndex="120">
+            <!--<Frame.Effect>
+                <BlurEffect Radius="0" x:Name="blurEffect" KernelType="Box"
+                            RenderingBias="Performance"/>
+            </Frame.Effect>-->
+        </Frame>
+
+        <Frame x:Name="PopupContainer" 
+                    Opacity="0"
+                    Panel.ZIndex="118"/>
+
+        <DockPanel x:Name="DisabledEffect"
+               Opacity="0" Panel.ZIndex="119">
+            <DockPanel.Background>
+                <ImageBrush
+                    AlignmentY="Top" 
+                    ImageSource="Images\Backgrounds\black_spot.png" 
+                    Stretch="None" 
+                    TileMode="Tile" 
+                    ViewportUnits="Absolute"
+                    Viewport="0,0,2,2"/>
+            </DockPanel.Background>
+        </DockPanel>
+
+        <tb:TaskbarIcon x:Name="notifyIcon"
+                    Visibility="Hidden"
+                    ToolTipText="CLEANXCEL2"
+                    IconSource="/Images/Logos/logo_CX.ico"
+                    MenuActivation="LeftOrRightClick"
+                    PopupActivation="DoubleClick" TrayLeftMouseDown="TrayIcon_TrayLeftMouseDown"
+                        />
+    </Grid>
+</Window>

@@ -1,0 +1,283 @@
+﻿<Page xmlns:UserControls="clr-namespace:CLEANXCEL2._2.UserControls"  x:Class="CLEANXCEL2._2.Pages.Menu.DefaultSettings.Station1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CLEANXCEL2._2.Pages.Menu.DefaultSettings"
+      mc:Ignorable="d"
+      Loaded="Page_Loaded"
+      Unloaded="Page_Unloaded"
+      Margin="0,30,0,0"
+      d:DesignHeight="1300" d:DesignWidth="1300"
+      Title="Station1">
+
+    <Grid VerticalAlignment="Center" HorizontalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled" Template="{StaticResource StandardScrollViewer}">
+            <StackPanel Orientation="Horizontal">
+                <DockPanel Name="PV1Dock" MinWidth="300" MaxWidth="300">
+                    <StackPanel>
+                        <TextBlock
+                        HorizontalAlignment="Center"
+                        Text="PV1"
+                        Style="{StaticResource H4}"/>
+                        <TextBlock
+                            Name="PV1DialTitle"
+                        HorizontalAlignment="Center"
+                        Text="Vacuum Pump"
+                        Style="{StaticResource Desc}"/>
+                        <UserControls:Dial 
+                        x:Name="PV1Dial"
+                        Title="pressure"
+                        Unit="kPa"/>
+                        <StackPanel HorizontalAlignment="Center">
+                            <DockPanel>
+                                <TextBlock x:Name="CurrentPV1Power" Text="0"  Padding="10,0" Style="{StaticResource H4}"/>
+                                <TextBlock Padding="0,0" Text="/" Style="{StaticResource H5}"/>
+                                <TextBlock x:Name="CurrentPV1Max" Padding="10,0" Text="1000" Style="{StaticResource H5}"/>
+                            </DockPanel>
+                            <TextBlock x:Name="CurrentPV1PowerText"
+                            HorizontalAlignment="Center"
+                            Text="flowrate" 
+                            Style="{StaticResource Label}"/>
+                        </StackPanel>
+
+                        <Border Grid.Column="0" Padding="{StaticResource FiboSeq4}">
+                            <StackPanel>
+                                <StackPanel Orientation="Horizontal"  Margin="{StaticResource FiboSeq1}">
+                                    <TextBlock Name="TBPV1SetpointLowText" Style="{StaticResource Desc}" Text="Low Setpoint (kPa)" TextWrapping="Wrap" Width="144"/>
+                                    <TextBox Name="TBPV1SetpointLow" Style="{StaticResource TextBox}" Width="88" HorizontalContentAlignment="Center" Text="0"/>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal"  Margin="{StaticResource FiboSeq1}">
+                                    <TextBlock Name="TBPV1SetpointHighText" Style="{StaticResource Desc}" Text="High Setpoint (kPa)" TextWrapping="Wrap" Width="144"/>
+                                    <TextBox Name="TBPV1SetpointHigh" Style="{StaticResource TextBox}" Width="88" HorizontalContentAlignment="Center" Text="-92"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </Border>
+
+                    </StackPanel>
+                </DockPanel>
+                <!--<DockPanel MinWidth="300" MaxWidth="300">
+                    <StackPanel>
+                        <TextBlock
+                        HorizontalAlignment="Center"
+                        Text="US1"
+                        Style="{StaticResource H4}"/>
+                        <TextBlock
+                        HorizontalAlignment="Center"
+                        Text="Ultrasonic 1"
+                        Style="{StaticResource Desc}"/>
+                        <UserControls:Dial 
+                        x:Name="US1Dial"
+                        Title="power"/>
+                        <StackPanel HorizontalAlignment="Center">
+                            <DockPanel>
+                                <TextBlock x:Name="CurrentUS1Power" Text="0"  Padding="10,0" Style="{StaticResource H4}"/>
+                                <TextBlock Padding="0,0" Text="/" Style="{StaticResource H5}"/>
+                                <TextBlock x:Name="CurrentUS1Max" Padding="10,0" Text="600" Style="{StaticResource H5}"/>
+                            </DockPanel>
+                            <TextBlock
+                            HorizontalAlignment="Center"
+                            Text="Watts" 
+                            Style="{StaticResource Label}"/>
+                        </StackPanel>
+
+                        <Border Padding="70,30">
+                            <StackPanel>
+                                <RadioButton x:Name="RBUS140"
+                                Content="40 kHz"
+                                Style="{StaticResource RBSubMenuRoles}">
+                                </RadioButton>
+                                <RadioButton x:Name="RBUS180"
+                                Content="80 kHz"
+                                Style="{StaticResource RBSubMenuRoles}">
+                                </RadioButton>
+                                <RadioButton x:Name="RBUS1132"
+                                Content="132 kHz"
+                                Style="{StaticResource RBSubMenuRoles}">
+                                </RadioButton>
+                            </StackPanel>
+                        </Border>
+
+                    </StackPanel>
+                </DockPanel>-->
+                <!--<DockPanel MinWidth="300" MaxWidth="300">
+                    <StackPanel>
+                        <TextBlock
+                        HorizontalAlignment="Center"
+                        Text="PD1"
+                        Style="{StaticResource H4}"/>
+                        <TextBlock
+                        HorizontalAlignment="Center"
+                        Text="Diaphragm Pump"
+                        Style="{StaticResource Desc}"/>
+                        <UserControls:Dial
+                        x:Name="PD1Dial"
+                        Amount="40"
+                        Angle="24"
+                        Title="pressure"
+                        Unit="bar"/>
+                        <StackPanel HorizontalAlignment="Center">
+                            <DockPanel>
+                                <TextBlock x:Name="CurrentPD1Power" Text="0"  Padding="10,0" Style="{StaticResource H4}"/>
+                                <TextBlock Padding="0,0" Text="/" Style="{StaticResource H5}"/>
+                                <TextBlock x:Name="CurrentPD1Max" Padding="10,0" Text="600" Style="{StaticResource H5}"/>
+                            </DockPanel>
+                            <TextBlock
+                            HorizontalAlignment="Center"
+                            Text="flowrate" 
+                            Style="{StaticResource Label}"/>
+                        </StackPanel>
+
+                        <Border Padding="{StaticResource FiboSeq4}">
+                            <StackPanel>
+                                <TextBox Name="TBPD1SetpointLow" Style="{StaticResource HintedTextBox}" Tag="Low Setpoint (kPa)" Text="" Margin="{StaticResource FiboSeq1}"/>
+                                <TextBox Name="TBPD1SetpointHigh" Style="{StaticResource HintedTextBox}" Tag="High Setpoint (kPa)" Text="" Margin="{StaticResource FiboSeq1}"/>
+                            </StackPanel>
+                        </Border>
+
+                    </StackPanel>
+                </DockPanel>
+                <DockPanel MinWidth="300" MaxWidth="300" Visibility="Hidden">
+                    <StackPanel>
+                        <TextBlock
+                        HorizontalAlignment="Center"
+                        Text="US2"
+                        Style="{StaticResource H4}"/>
+                        <TextBlock
+                        HorizontalAlignment="Center"
+                        Text="Ultrasonic 2"
+                        Style="{StaticResource Desc}"/>
+                        <UserControls:Dial 
+                        x:Name="US2Dial"
+                        Title="power"/>
+                        <StackPanel HorizontalAlignment="Center">
+                            <DockPanel>
+                                <TextBlock x:Name="CurrentUS2Power" Text="0"  Padding="10,0" Style="{StaticResource H4}"/>
+                                <TextBlock Padding="0,0" Text="/" Style="{StaticResource H5}"/>
+                                <TextBlock x:Name="CurrentUS2Max" Padding="10,0" Text="600" Style="{StaticResource H5}"/>
+                            </DockPanel>
+                            <TextBlock
+                            HorizontalAlignment="Center"
+                            Text="Watts" 
+                            Style="{StaticResource Label}"/>
+                        </StackPanel>
+
+                        <Border Padding="70,30">
+                            <StackPanel>
+                                <RadioButton x:Name="RBUS220"
+                                Content="20 kHz"
+                                Style="{StaticResource RBSubMenuRoles}">
+                                </RadioButton>
+                                <RadioButton x:Name="RBUS280"
+                                Content="80 kHz"
+                                Style="{StaticResource RBSubMenuRoles}">
+                                </RadioButton>
+                                <RadioButton x:Name="RBUS2120"
+                                Content="120 kHz"
+                                Style="{StaticResource RBSubMenuRoles}">
+                                </RadioButton>
+                            </StackPanel>
+                        </Border>
+
+                    </StackPanel>
+                </DockPanel>
+                <DockPanel MinWidth="300" MaxWidth="300" Visibility="Hidden">
+                    <StackPanel>
+                        <TextBlock
+                        HorizontalAlignment="Center"
+                        Text="US3"
+                        Style="{StaticResource H4}"/>
+                        <TextBlock
+                        HorizontalAlignment="Center"
+                        Text="Ultrasonic 3"
+                        Style="{StaticResource Desc}"/>
+                        <UserControls:Dial 
+                        x:Name="US3Dial"
+                        Title="power"/>
+                        <StackPanel HorizontalAlignment="Center">
+                            <DockPanel>
+                                <TextBlock x:Name="CurrentUS3Power" Text="0"  Padding="10,0" Style="{StaticResource H4}"/>
+                                <TextBlock Padding="0,0" Text="/" Style="{StaticResource H5}"/>
+                                <TextBlock x:Name="CurrentUS3Max" Padding="10,0" Text="600" Style="{StaticResource H5}"/>
+                            </DockPanel>
+                            <TextBlock
+                            HorizontalAlignment="Center"
+                            Text="Watts" 
+                            Style="{StaticResource Label}"/>
+                        </StackPanel>
+
+                        <Border Padding="70,30">
+                            <StackPanel>
+                                <RadioButton x:Name="RBUS320"
+                                Content="20 kHz"
+                                Style="{StaticResource RBSubMenuRoles}">
+                                </RadioButton>
+                                <RadioButton x:Name="RBUS380"
+                                Content="80 kHz"
+                                Style="{StaticResource RBSubMenuRoles}">
+                                </RadioButton>
+                                <RadioButton x:Name="RBUS3120"
+                                Content="120 kHz"
+                                Style="{StaticResource RBSubMenuRoles}">
+                                </RadioButton>
+                            </StackPanel>
+                        </Border>
+
+                    </StackPanel>
+                </DockPanel>
+                <DockPanel MinWidth="300" MaxWidth="300" Visibility="Hidden">
+                    <StackPanel>
+                        <TextBlock
+                        HorizontalAlignment="Center"
+                        Text="US4"
+                        Style="{StaticResource H4}"/>
+                        <TextBlock
+                        HorizontalAlignment="Center"
+                        Text="Ultrasonic 4"
+                        Style="{StaticResource Desc}"/>
+                        <UserControls:Dial 
+                        x:Name="US4Dial"
+                        Title="power"/>
+                        <StackPanel HorizontalAlignment="Center">
+                            <DockPanel>
+                                <TextBlock x:Name="CurrentUS4Power" Text="0"  Padding="10,0" Style="{StaticResource H4}"/>
+                                <TextBlock Padding="0,0" Text="/" Style="{StaticResource H5}"/>
+                                <TextBlock x:Name="CurrentUS4Max" Padding="10,0" Text="600" Style="{StaticResource H5}"/>
+                            </DockPanel>
+                            <TextBlock
+                            HorizontalAlignment="Center"
+                            Text="Watts" 
+                            Style="{StaticResource Label}"/>
+                        </StackPanel>
+
+                        <Border Padding="70,30">
+                            <StackPanel>
+                                <RadioButton x:Name="RBUS420"
+                                Content="20 kHz"
+                                Style="{StaticResource RBSubMenuRoles}">
+                                </RadioButton>
+                                <RadioButton x:Name="RBUS480"
+                                Content="80 kHz"
+                                Style="{StaticResource RBSubMenuRoles}">
+                                </RadioButton>
+                                <RadioButton x:Name="RBUS4120"
+                                Content="120 kHz"
+                                Style="{StaticResource RBSubMenuRoles}">
+                                </RadioButton>
+                            </StackPanel>
+                        </Border>
+
+                    </StackPanel>
+                </DockPanel>-->
+            </StackPanel>
+        </ScrollViewer>
+        <Button Name="Save" Grid.Row="1" Margin="{StaticResource FiboSeq3}" Style="{StaticResource StandardButton}" Content="Save" VerticalAlignment="Bottom" HorizontalAlignment="Right" Click="SaveSettings_Click"/>
+        <!--<DockPanel>
+            <TextBlock Style="{StaticResource H1}" Text="Station 1"></TextBlock>
+        </DockPanel>-->
+    </Grid>
+</Page>

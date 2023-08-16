@@ -1,0 +1,1310 @@
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.pdb
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\SharpVectors.Converters.dll
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\SharpVectors.Core.dll
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\SharpVectors.Css.dll
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\SharpVectors.Dom.dll
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\SharpVectors.Model.dll
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\SharpVectors.Rendering.Wpf.dll
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\SharpVectors.Runtime.dll
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csprojResolveAssemblyReference.cache
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Intro.g.cs
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\MainWindow.g.cs
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Index.g.cs
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Login.g.cs
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Register.g.cs
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.g.cs
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\_Register.g.cs
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\App.g.cs
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_Content.g.cs
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.cache
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.lref
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\App.baml
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Animations.baml
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Buttons.baml
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Colors.baml
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Dimensions.baml
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Fonts.baml
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\FormControls.baml
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Info.baml
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Texts.baml
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Intro.baml
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\MainWindow.baml
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Index.baml
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Login.baml
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Register.baml
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.baml
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\_Register.baml
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.g.resources
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2._2.Properties.Resources.resources
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.GenerateResource.Cache
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.CoreCompileInputs.cache
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.exe
+C:\Users\Yoges\source\repos\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.pdb
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe.config
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.pdb
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\MySql.Data.dll
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\Google.Protobuf.dll
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\MySql.Data.xml
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Intro.g.cs
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\MainWindow.g.cs
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Index.g.cs
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Login.g.cs
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Register.g.cs
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.g.cs
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.g.cs
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.g.cs
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\App.g.cs
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_Content.g.cs
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.cache
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.lref
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\App.baml
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Animations.baml
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Buttons.baml
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Colors.baml
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Dimensions.baml
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Fonts.baml
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\FormControls.baml
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Info.baml
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Texts.baml
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Intro.baml
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\MainWindow.baml
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Index.baml
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Login.baml
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Register.baml
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.baml
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.baml
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.baml
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.g.resources
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2._2.Properties.Resources.resources
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.GenerateResource.Cache
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.CoreCompileInputs.cache
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.exe
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.pdb
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+E:\Function Modules\CLEANXCEL2\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe.config
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.pdb
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csprojResolveAssemblyReference.cache
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Intro.g.cs
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\MainWindow.g.cs
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Index.g.cs
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\General.g.cs
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Index.g.cs
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Station1.g.cs
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Index.g.cs
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Index.g.cs
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Login.g.cs
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Register.g.cs
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.g.cs
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.g.cs
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.g.cs
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\UserControls\Dial.g.cs
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\App.g.cs
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_Content.g.cs
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.cache
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.lref
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\App.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Animations.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Buttons.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Colors.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Dimensions.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Fonts.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\FormControls.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Info.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Texts.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Intro.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\MainWindow.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Index.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\General.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Index.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Station1.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Index.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Index.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Login.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Register.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\UserControls\Dial.baml
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.g.resources
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2._2.Properties.Resources.resources
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.GenerateResource.Cache
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.CoreCompileInputs.cache
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.exe
+C:\GIT\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.pdb
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe.config
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.pdb
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\MySql.Data.dll
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\TwinCAT.Ads.dll
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\Google.Protobuf.dll
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\MySql.Data.xml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\TwinCAT.Ads.xml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Intro.g.cs
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\MainWindow.g.cs
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Index.g.cs
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\General.g.cs
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Index.g.cs
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Station1.g.cs
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Index.g.cs
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Index.g.cs
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Login.g.cs
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Register.g.cs
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.g.cs
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.g.cs
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.g.cs
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\UserControls\Dial.g.cs
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\App.g.cs
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_Content.g.cs
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.cache
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.lref
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\App.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Animations.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Buttons.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Colors.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Dimensions.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Fonts.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\FormControls.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Info.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Texts.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Intro.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\MainWindow.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Index.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\General.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Index.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Station1.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Index.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Index.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Login.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Register.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\UserControls\Dial.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.g.resources
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2._2.Properties.Resources.resources
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.GenerateResource.Cache
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.CoreCompileInputs.cache
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.exe
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.pdb
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Interop.TcAdsDll.dll
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.ResolveComReference.cache
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\ManualMode.g.cs
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\ManualModeStyle.baml
+E:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\ManualMode.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe.config
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.pdb
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\TwinCAT.Ads.dll
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\bin\Debug\TwinCAT.Ads.xml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Interop.TcAdsDll.dll
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.ResolveComReference.cache
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\UserControls\RadialPBar.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Intro.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\MainWindow.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\CurrentAlarm.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\HistoryAlarm.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsActive.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Schematics.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\General.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Station1.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Schematics.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Sensor.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Operation.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Process.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Recipe.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\SubProcess.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\UnderConstruction\UnderConstruction.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Login.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Register.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\UserControls\AlarmRow.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\UserControls\ConditionPanel.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\UserControls\ConditionRow.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\UserControls\Dial.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\UserControls\DigitalDisplay.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\UserControls\RadialPBar.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\UserControls\RangeSlider.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\UserControls\StandardTable.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\App.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_Content.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.cache
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.lref
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\App.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Animations.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Buttons.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Colors.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\DataGrid.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Dimensions.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Fonts.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\FormControls.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Info.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\ManualModeStyle.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\RangeSlider.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\ScrollViewer.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Dictionaries\Texts.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Intro.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\MainWindow.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\CurrentAlarm.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\HistoryAlarm.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\Index.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\Index.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsActive.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Index.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Schematics.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\General.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Index.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Station1.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Index.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Index.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Schematics.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Sensor.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Index.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Operation.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Index.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Process.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Recipe.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\SubProcess.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Menu\UnderConstruction\UnderConstruction.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Index.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Login.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Register.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\UserControls\AlarmRow.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\UserControls\ConditionPanel.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\UserControls\ConditionRow.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\UserControls\Dial.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\UserControls\DigitalDisplay.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\UserControls\RangeSlider.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\UserControls\StandardTable.baml
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.g.resources
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2._2.Properties.Resources.resources
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.GenerateResource.Cache
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.CoreCompileInputs.cache
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.exe
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.pdb
+D:\Function Modules\CLEANXCEL2.2\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csprojResolveAssemblyReference.cache
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe.config
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.pdb
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\FontAwesome.WPF.dll
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\MySql.Data.dll
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\MySqlBackup.dll
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\TwinCAT.Ads.dll
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\FontAwesome.WPF.xml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\TwinCAT.Ads.xml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\RadialPBar.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Intro.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\MainWindow.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\CurrentAlarm.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\HistoryAlarm.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Graph.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\StatusDiagram.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsActive.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Schematics.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\General.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Station1.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Restore.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Schematics.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Sensor.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Operation.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Part.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Process.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Recipe.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\SubProcess.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\UnderConstruction\UnderConstruction.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\User\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\User\Login.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\User\Register.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\AlarmRow.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\RecipeTable.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\ConditionPanel.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\ConditionRow.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\Dial.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\DigitalDisplay.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\RadialPBar.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\RangeSlider.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\Schematics.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\aVXTable.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\StandardTable.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\App.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_Content.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.cache
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.lref
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\App.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\Animations.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\Buttons.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\Colors.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\DataGrid.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\Dimensions.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\Fonts.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\FormControls.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\Graph.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\Info.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\ManualModeStyle.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\RangeSlider.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\ScrollViewer.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\Texts.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Intro.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\MainWindow.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\CurrentAlarm.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\HistoryAlarm.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\Index.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Index.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Graph.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\StatusDiagram.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\Index.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsActive.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Index.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Schematics.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\General.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Index.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Station1.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Index.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Restore.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Index.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Schematics.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Sensor.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Index.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Operation.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Index.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Part.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Process.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Recipe.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\SubProcess.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\UnderConstruction\UnderConstruction.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\User\Index.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\User\Login.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\User\Register.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\AlarmRow.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\RecipeTable.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\ConditionPanel.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\ConditionRow.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\Dial.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\DigitalDisplay.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\RangeSlider.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\Schematics.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\aVXTable.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\StandardTable.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.g.resources
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\CLEANXCEL2._2.Properties.Resources.resources
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.GenerateResource.Cache
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.CoreCompileInputs.cache
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.exe
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.pdb
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\Card.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\ConditionButton.g.cs
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\Card.baml
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\ConditionButton.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe.config
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.pdb
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\MySql.Data.dll
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\MySqlBackup.dll
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\TwinCAT.Ads.dll
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\FontAwesome.WPF.xml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\bin\Debug\TwinCAT.Ads.xml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\RadialPBar.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Intro.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\MainWindow.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\CurrentAlarm.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\HistoryAlarm.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Graph.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\StatusDiagram.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsActive.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Schematics.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\General.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Station1.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Restore.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Schematics.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Sensor.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Operation.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Part.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Process.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Recipe.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\SubProcess.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\UnderConstruction\UnderConstruction.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\User\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\User\Login.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\User\Register.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\AlarmRow.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\Card.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\ConditionButton.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\RecipeTable.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\ConditionPanel.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\ConditionRow.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\Dial.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\DigitalDisplay.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\RadialPBar.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\RangeSlider.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\Schematics.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\aVXTable.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\StandardTable.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\App.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_Content.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.cache
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.lref
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\App.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\Animations.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\Buttons.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\Colors.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\DataGrid.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\Dimensions.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\Fonts.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\FormControls.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\Graph.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\Info.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\ManualModeStyle.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\RangeSlider.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\ScrollViewer.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Dictionaries\Texts.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Intro.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\MainWindow.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\CurrentAlarm.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\HistoryAlarm.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Graph.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\StatusDiagram.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsActive.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Schematics.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\General.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Station1.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Restore.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Schematics.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Sensor.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Operation.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Part.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Process.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Recipe.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\SubProcess.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Menu\UnderConstruction\UnderConstruction.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\User\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\User\Login.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\User\Register.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\AlarmRow.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\Card.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\ConditionButton.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\RecipeTable.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\ConditionPanel.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\ConditionRow.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\Dial.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\DigitalDisplay.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\RangeSlider.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\Schematics.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\aVXTable.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\UserControls\StandardTable.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.g.resources
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\CLEANXCEL2._2.Properties.Resources.resources
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.GenerateResource.cache
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.CoreCompileInputs.cache
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.CopyComplete
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.exe
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.pdb
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csprojAssemblyReference.cache
+D:\Function Modules\CLEANXCEL2.2 - Backup\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csprojResolveAssemblyReference.cache
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe.config
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.pdb
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\FontAwesome.WPF.dll
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\MySql.Data.dll
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\MySqlBackup.dll
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\TwinCAT.Ads.dll
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\FontAwesome.WPF.xml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\TwinCAT.Ads.xml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RadialPBar.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Intro.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\MainWindow.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\CurrentAlarm.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\HistoryAlarm.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Graph.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\StatusDiagram.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Blueprints\Schematic.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsDisabled.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsBypass.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\MachineStatus.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Schematics.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\General.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Station1.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\MachineControl.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Restore.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Schematics.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Blueprints\Sensor.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Operation.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Part.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Process.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Recipe.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\SubProcess.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\UnderConstruction\UnderConstruction.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Index.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Login.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Register.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\AlarmRow.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Card.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionButton.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RecipeTable.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionPanel.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionRow.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Dial.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\DigitalDisplay.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RadialPBar.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RangeSlider.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Schematics.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\aVXTable.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\StandardTable.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\App.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_Content.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.cache
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.lref
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\App.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Animations.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Buttons.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Colors.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\DataGrid.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Dimensions.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Fonts.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\FormControls.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Graph.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Info.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\ManualModeStyle.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\RangeSlider.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\ScrollViewer.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Texts.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Intro.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\MainWindow.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\CurrentAlarm.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\HistoryAlarm.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\Index.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Index.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Graph.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\StatusDiagram.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Blueprints\Schematic.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\Index.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsDisabled.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsBypass.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Index.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\MachineStatus.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Schematics.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\General.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Index.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Station1.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Index.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\MachineControl.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Restore.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Index.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Schematics.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Blueprints\Sensor.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Index.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Operation.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Index.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Part.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Process.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Recipe.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\SubProcess.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\UnderConstruction\UnderConstruction.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Index.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Login.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Register.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\AlarmRow.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Card.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionButton.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RecipeTable.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionPanel.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionRow.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Dial.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\DigitalDisplay.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RangeSlider.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Schematics.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\aVXTable.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\StandardTable.baml
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.g.resources
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2._2.Properties.Resources.resources
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.GenerateResource.Cache
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.CoreCompileInputs.cache
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.exe
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.pdb
+D:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csprojResolveAssemblyReference.cache
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe.config
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.pdb
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\MySql.Data.dll
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\MySqlBackup.dll
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\TwinCAT.Ads.dll
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\FontAwesome.WPF.xml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\TwinCAT.Ads.xml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RadialPBar.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Intro.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\MainWindow.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\CurrentAlarm.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\HistoryAlarm.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Graph.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\StatusDiagram.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Blueprints\Schematic.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsDisabled.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsBypass.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\MachineStatus.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Schematics.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\General.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Station1.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\MachineControl.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Restore.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Schematics.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Blueprints\Sensor.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Operation.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Part.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Process.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Recipe.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\UploadDownload.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\SubProcess.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\UnderConstruction\UnderConstruction.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Login.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Register.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\AlarmRow.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Card.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionButton.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RecipeTable.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionPanel.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionRow.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Dial.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\DigitalDisplay.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RadialPBar.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RangeSlider.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\aVXTable.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\StandardTable.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\App.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_Content.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.cache
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.lref
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\App.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Animations.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Buttons.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Colors.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\DataGrid.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Dimensions.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Fonts.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\FormControls.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Graph.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Info.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\ManualModeStyle.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\RangeSlider.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\ScrollViewer.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Texts.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Intro.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\MainWindow.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\CurrentAlarm.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\HistoryAlarm.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Graph.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\StatusDiagram.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Blueprints\Schematic.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsDisabled.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsBypass.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\MachineStatus.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Schematics.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\General.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Station1.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\MachineControl.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Restore.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Schematics.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Blueprints\Sensor.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Operation.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Part.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Process.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Recipe.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\UploadDownload.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\SubProcess.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\UnderConstruction\UnderConstruction.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Login.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Register.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\AlarmRow.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Card.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionButton.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RecipeTable.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionPanel.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionRow.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Dial.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\DigitalDisplay.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RangeSlider.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\aVXTable.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\StandardTable.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.g.resources
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2._2.Properties.Resources.resources
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.GenerateResource.cache
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.CoreCompileInputs.cache
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.CopyComplete
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.exe
+C:\Users\Vincent Hoong\Downloads\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.pdb
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe.config
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.pdb
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\FontAwesome.WPF.dll
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\MySql.Data.dll
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\MySqlBackup.dll
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Newtonsoft.Json.dll
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\TwinCAT.Ads.dll
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\FontAwesome.WPF.xml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Newtonsoft.Json.pdb
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Newtonsoft.Json.xml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\TwinCAT.Ads.xml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csprojResolveAssemblyReference.cache
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RadialPBar.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Intro.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\MainWindow.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\CurrentAlarm.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\HistoryAlarm.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\Index.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Index.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Graph.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\StatusDiagram.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Blueprints\Schematic.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\Index.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsDisabled.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsBypass.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Index.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\MachineStatus.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Schematics.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\General.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Index.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Station1.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Index.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\MachineControl.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Restore.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Index.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Schematics.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Blueprints\Sensor.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Index.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Operation.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Index.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Part.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Process.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Recipe.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\UploadDownload.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\SubProcess.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\UnderConstruction\UnderConstruction.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Index.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Login.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Register.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\AlarmRow.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Card.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionButton.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RecipeTable.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionPanel.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionRow.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Dial.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\DigitalDisplay.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RadialPBar.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RangeSlider.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\aVXTable.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\StandardTable.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\App.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_Content.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.cache
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.lref
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\App.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Animations.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Buttons.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Colors.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\DataGrid.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Dimensions.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Fonts.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\FormControls.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Graph.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Info.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\ManualModeStyle.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\RangeSlider.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\ScrollViewer.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Texts.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Intro.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\MainWindow.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\CurrentAlarm.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\HistoryAlarm.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\Index.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Index.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Graph.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\StatusDiagram.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Blueprints\Schematic.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\Index.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsDisabled.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsBypass.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Index.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\MachineStatus.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Schematics.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\General.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Index.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Station1.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Index.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\MachineControl.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Restore.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Index.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Schematics.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Blueprints\Sensor.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Index.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Operation.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Index.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Part.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Process.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Recipe.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\UploadDownload.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\SubProcess.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\UnderConstruction\UnderConstruction.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Index.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Login.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Register.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\AlarmRow.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Card.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionButton.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RecipeTable.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionPanel.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionRow.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Dial.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\DigitalDisplay.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RangeSlider.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\aVXTable.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\StandardTable.baml
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.g.resources
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2._2.Properties.Resources.resources
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.GenerateResource.Cache
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.CoreCompileInputs.cache
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.exe
+E:\Function Modules\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.pdb
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe.config
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.pdb
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\MySql.Data.dll
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\MySqlBackup.dll
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\TwinCAT.Ads.dll
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\FontAwesome.WPF.xml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\TwinCAT.Ads.xml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csprojAssemblyReference.cache
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RadialPBar.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Intro.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\MainWindow.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\CurrentAlarm.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\HistoryAlarm.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Graph.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\StatusDiagram.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Blueprints\Schematic.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsDisabled.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsBypass.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\MachineStatus.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Schematics.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\General.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Station1.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\MachineControl.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Restore.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Schematics.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Blueprints\Sensor.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Operation.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Part.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Process.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Recipe.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\UploadDownload.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\SubProcess.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\UnderConstruction\UnderConstruction.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Index.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Login.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Register.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\AlarmRow.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Card.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionButton.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RecipeTable.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionPanel.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionRow.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Dial.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\DigitalDisplay.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RadialPBar.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RangeSlider.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\aVXTable.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\StandardTable.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\App.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_Content.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.cache
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.lref
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\App.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Animations.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Buttons.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Colors.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\DataGrid.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Dimensions.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Fonts.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\FormControls.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Graph.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Info.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\ManualModeStyle.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\RangeSlider.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\ScrollViewer.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Texts.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Intro.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\MainWindow.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\CurrentAlarm.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\HistoryAlarm.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Graph.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\StatusDiagram.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Blueprints\Schematic.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsDisabled.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsBypass.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\MachineStatus.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Schematics.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\General.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Station1.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\MachineControl.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Restore.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Schematics.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Blueprints\Sensor.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Operation.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Part.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Process.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Recipe.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\UploadDownload.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\SubProcess.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\UnderConstruction\UnderConstruction.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Index.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Login.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Register.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\AlarmRow.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Card.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionButton.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RecipeTable.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionPanel.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionRow.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Dial.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\DigitalDisplay.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RangeSlider.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\aVXTable.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\StandardTable.baml
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.g.resources
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2._2.Properties.Resources.resources
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.GenerateResource.cache
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.CoreCompileInputs.cache
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.CopyComplete
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.exe
+C:\Users\Vincent Hoong\Downloads\Function Modules\GIT-CX2_Machine\cx2-maoying\Project Solution\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.pdb
+C:\Users\tzechiatc\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe.config
+C:\Users\tzechiatc\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.exe
+C:\Users\tzechiatc\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.pdb
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe.config
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.exe
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\CLEANXCEL2.2.pdb
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\MySql.Data.dll
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\MySqlBackup.dll
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\TwinCAT.Ads.dll
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\FontAwesome.WPF.xml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\bin\Debug\TwinCAT.Ads.xml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csprojResolveAssemblyReference.cache
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RadialPBar.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Intro.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\MainWindow.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\CurrentAlarm.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\HistoryAlarm.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\Index.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Index.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Graph.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\StatusDiagram.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Blueprints\Schematic.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\Index.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsDisabled.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsBypass.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Index.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\MachineStatus.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Schematics.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\General.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Index.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Station1.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Index.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\MachineControl.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Restore.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Index.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Schematics.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Blueprints\Sensor.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Index.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Operation.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Index.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Part.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Process.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Recipe.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\UploadDownload.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\SubProcess.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\UnderConstruction\UnderConstruction.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Index.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Login.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Register.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\AlarmRow.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Card.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionButton.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RecipeTable.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionPanel.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionRow.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Dial.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\DigitalDisplay.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RadialPBar.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RangeSlider.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\aVXTable.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\StandardTable.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\App.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_Content.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.cache
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2_MarkupCompile.lref
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\App.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Animations.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Buttons.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Colors.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\DataGrid.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Dimensions.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Fonts.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\FormControls.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Graph.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Info.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\ManualModeStyle.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\RangeSlider.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\ScrollViewer.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Dictionaries\Texts.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Intro.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\MainWindow.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\CurrentAlarm.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\HistoryAlarm.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Alarm\Index.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Index.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\Graph.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Analytics\StatusDiagram.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Blueprints\Schematic.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\Index.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsDisabled.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Bypass\SchematicsBypass.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Index.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\MachineStatus.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\CurrentStatus\Schematics.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\General.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Index.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\DefaultSettings\Station1.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Index.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\MachineControl.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Restore.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Index.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Maintenance\Schematics.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Blueprints\Sensor.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Index.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\Operation\Operation.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Index.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Part.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Process.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\Recipe.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\UploadDownload.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\RecipeManagement\SubProcess.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Menu\UnderConstruction\UnderConstruction.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Index.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Login.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Register.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Reset.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\User\Roles.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\Pages\Window\WindowsMessageBox.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\AlarmRow.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Card.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionButton.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RecipeTable.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionPanel.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\ConditionRow.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\Dial.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\DigitalDisplay.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\RangeSlider.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\aVXTable.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\UserControls\StandardTable.baml
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.g.resources
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2._2.Properties.Resources.resources
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.GenerateResource.Cache
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.exe
+C:\Users\Moon\Dropbox\Working Related\cx2-maoying-master\cx2-maoying-master\CLEANXCEL2.2 - MaoYing\CLEANXCEL2.2\obj\Debug\CLEANXCEL2.2.pdb

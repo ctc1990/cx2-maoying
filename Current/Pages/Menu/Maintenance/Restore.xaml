@@ -1,0 +1,63 @@
+﻿<Page x:Class="CLEANXCEL2._2.Pages.Menu.Maintenance.Restore"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CLEANXCEL2._2.Pages.Menu.Maintenance"
+      mc:Ignorable="d" 
+      Loaded="Page_Loaded"
+      d:DesignHeight="1300" d:DesignWidth="1300"
+      Title="Calibration">
+
+    <Grid Margin="30">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="300px"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Row="0" Grid.Column="0" Grid.RowSpan="3" Background="{StaticResource PrimaryColor}" Margin="0,0,10,0"/>
+        <Grid Grid.Row="0" Grid.Column="1" Grid.RowSpan="3" Background="{StaticResource PrimaryColor}" Margin="0,0,10,0"/>
+        <Grid Grid.Row="0" Grid.Column="2" Grid.RowSpan="3" Background="{StaticResource PrimaryColor}" Margin="0,0,10,0"/>
+
+        <TextBlock Grid.Row="0" Name="TBCalibrateTitle" Grid.Column="0" Style="{StaticResource H8}" Text="Calibration"/>
+        <CheckBox Name="CBCalibrate" Grid.Column="0" Grid.RowSpan="3" Style="{StaticResource CBMainControl}" Click="CBCalibrate_Click"/>
+
+        <!--<Border Padding="{StaticResource ButtonSpacing}">
+                <Button Name="CalibrateVacuumPressure" Content="Calibrate" Style="{StaticResource StandardButton}" HorizontalAlignment="Center" Click="CalibrateVacuumPressure_Click"/>
+            </Border>-->
+        <TextBlock Grid.Row="0" Grid.Column="1" Name="TBPersistentMemoryTitle" Style="{StaticResource H8}" Text="Persistent Memory Recovery"/>
+        <CheckBox Name="CBPersistentRecovery" Grid.Column="1" Grid.RowSpan="3"
+                  Style="{StaticResource CBMainControl}" Click="CBPersistentRecovery_Click"/>
+
+        <!--<Border Grid.Column="1" Padding="{StaticResource ButtonSpacing}" VerticalAlignment="Top">
+            <Button Name="Recover" Content="Recover" Style="{StaticResource StandardButton}" HorizontalAlignment="Center" Click="Recover_Click"/>
+        </Border>-->
+
+        <TextBlock Grid.Row="0" Grid.Column="2" Name="TBBackupStorageTitle" Style="{StaticResource H8}" Text="Backup Storage"/>
+        <CheckBox Name="CBBackupStorage" Grid.Column="2" Grid.RowSpan="3"
+                  Style="{StaticResource CBMainControl}" Click="CBBackupStorage_Click"/>
+
+        <!--<Border Grid.Column="2" Padding="{StaticResource ButtonSpacing}" VerticalAlignment="Top">
+            <Button Name="BackupSQL" Content="Backup SQL" Style="{StaticResource StandardButton}" HorizontalAlignment="Center" Click="BackupSQL_Click"/>
+        </Border>-->
+
+        <StackPanel Grid.Row="2" Grid.Column="0" Margin="0,0,10,0" HorizontalAlignment="Center">
+            <StackPanel Grid.Row="0" Grid.Column="0" Orientation="Horizontal"  Margin="{StaticResource FiboSeq3}">
+                <TextBlock Name="LowVacuumLevelCap" Style="{StaticResource Label}" Text="Low Vacuum Level" TextWrapping="Wrap" Width="144" Margin="0,20,10,0"/>
+                <TextBox Name="LowVacuumLevel" Style="{StaticResource H7}" Width="150" HorizontalContentAlignment="Center" Text="0"/>
+                <TextBlock Style="{StaticResource H5}" Text="kPa" VerticalAlignment="Center"/>
+            </StackPanel>
+            <StackPanel Grid.Row="0" Grid.Column="0" Orientation="Horizontal"  Margin="{StaticResource FiboSeq3}">
+                <TextBlock Name="HighVacuumLevelCap" Style="{StaticResource Label}" Text="High Vacuum Level" TextWrapping="Wrap" Width="144" Margin="0,20,10,0"/>
+                <TextBox Name="HighVacuumLevel" Style="{StaticResource H7}" Width="150" HorizontalContentAlignment="Center" Text="-94.2"/>
+                <TextBlock Style="{StaticResource H5}" Text="kPa" VerticalAlignment="Center"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

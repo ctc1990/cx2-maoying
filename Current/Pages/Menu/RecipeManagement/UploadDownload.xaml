@@ -1,0 +1,50 @@
+﻿<Page x:Class="CLEANXCEL2._2.Pages.Menu.Maintenance.UploadDownload"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CLEANXCEL2._2.Pages.Menu.Maintenance"
+      mc:Ignorable="d" 
+      Loaded="Page_Loaded"
+      d:DesignHeight="1300" d:DesignWidth="1300"
+      Title="Calibration">
+
+    <Grid Margin="30">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="300px"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Row="0" Grid.Column="0" Grid.RowSpan="3" Background="{StaticResource PrimaryColor}" Margin="0,0,10,0"/>
+        <Grid Grid.Row="0" Grid.Column="1" Grid.RowSpan="3" Background="{StaticResource PrimaryColor}" Margin="0,0,10,0"/>
+        <!--<Grid Grid.Row="0" Grid.Column="2" Grid.RowSpan="3" Background="{StaticResource PrimaryColor}" Margin="0,0,10,0"/>-->
+
+        <!--<Border Padding="{StaticResource ButtonSpacing}">
+                <Button Name="CalibrateVacuumPressure" Content="Calibrate" Style="{StaticResource StandardButton}" HorizontalAlignment="Center" Click="CalibrateVacuumPressure_Click"/>
+            </Border>-->
+        <TextBlock Grid.Row="0" Grid.Column="0" Name="TBUploadTitle" Style="{StaticResource H8}" Text="Upload"/>
+        <CheckBox Name="CBUpload" Grid.Column="0" Grid.RowSpan="3"
+                  Style="{StaticResource CBMainControl}" Click="CBUpload_Click"/>
+
+        <!--<Border Grid.Column="1" Padding="{StaticResource ButtonSpacing}" VerticalAlignment="Top">
+            <Button Name="Recover" Content="Recover" Style="{StaticResource StandardButton}" HorizontalAlignment="Center" Click="Recover_Click"/>
+        </Border>-->
+
+        <TextBlock Grid.Row="0" Grid.Column="1" Name="TBDownloadTitle" Style="{StaticResource H8}" Text="Download"/>
+        <Expander Grid.Row="2" Grid.Column="1" Name="ExpanderRecipeID" Header="Select recipes to be downloaded." Width="400px" Style="{StaticResource StandardExpander}" HorizontalAlignment="Center">
+            <StackPanel Name="CBStackRecipeID"/>
+        </Expander>
+        <CheckBox Name="CBDownload" Grid.Column="1" Grid.RowSpan="3"
+                  Style="{StaticResource CBMainControl}" Click="CBDownload_Click"/>
+
+        <!--<Border Grid.Column="2" Padding="{StaticResource ButtonSpacing}" VerticalAlignment="Top">
+            <Button Name="BackupSQL" Content="Backup SQL" Style="{StaticResource StandardButton}" HorizontalAlignment="Center" Click="BackupSQL_Click"/>
+        </Border>-->
+    </Grid>
+</Page>
