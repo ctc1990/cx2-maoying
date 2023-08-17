@@ -21,7 +21,8 @@ namespace CLEANXCEL2._2
     public class Globals
     {
         //public static readonly String AMSNetID = "5.50.81.78.1.1";        // System AMS Net ID
-        public static readonly String AMSNetID = "5.55.127.186.1.1";        // System AMS Net ID
+        //public static readonly String AMSNetID = "5.55.127.186.1.1";        // System AMS Net ID
+        public static readonly String AMSNetID = "192.168.68.163.1.1";        // System AMS Net ID
         //public static readonly String AMSNetID = "";        // System AMS Net ID
         public static readonly int AMSPort = 801;      // System Port
 
