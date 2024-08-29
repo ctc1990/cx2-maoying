@@ -1,0 +1,29 @@
+0
+beckhoffhmitesting.xml
+1028x768 grey.bmp
+hijau-1.bmp
+merah-2.bmp
+green-small.bmp
+red-small.bmp
+yellow.bmp
+reset.bmp
+search2.bmp
+user1.bmp
+alarm-2.bmp
+jks logo.bmp
+manumode.bmp
+fullhdbackground.bmp
+home.bmp
+fe process stn.bmp
+basket.bmp
+red-small(horz).bmp
+green-small (horz).bmp
+maoying 1024x768.bmp
+manual_exit.bmp
+maoying 1024x768 manu.bmp
+setting1.bmp
+maintenance.bmp
+353577r21 ringtech.bmp
+save.bmp
+copy paste2.bmp
+2018009_maoying_plcvis.txt

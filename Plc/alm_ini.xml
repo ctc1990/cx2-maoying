@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<alarmconfig>
+	<alarmconfig-dateformat>dd'-'MM'-'yyyy</alarmconfig-dateformat>
+	<alarmconfig-timeformat>HH':'mm':'ss</alarmconfig-timeformat>
+	<alarmconfig-next-text-id>10002</alarmconfig-next-text-id>
+	<alarmclass-list>
+		<alarmclass>
+			<alarmclass-name>DEFAULT</alarmclass-name>
+			<alarmclass-description><![CDATA[]]></alarmclass-description>
+			<alarmclass-id>0</alarmclass-id>
+			<alarmclass-acktype>0</alarmclass-acktype>
+			<alarmclass-textcolor-into>255,0,0</alarmclass-textcolor-into>
+			<alarmclass-textcolor-ack>0,204,51</alarmclass-textcolor-ack>
+			<alarmclass-textcolor-outof>0,0,255</alarmclass-textcolor-outof>
+			<alarmclass-bgcolor-into>255,255,255</alarmclass-bgcolor-into>
+			<alarmclass-bgcolor-ack>255,255,255</alarmclass-bgcolor-ack>
+			<alarmclass-bgcolor-outof>255,255,255</alarmclass-bgcolor-outof>
+			<alarmaction-list/>
+		</alarmclass>
+	</alarmclass-list>
+	<alarmgroup-list name="System"/>
+	<variablelist/>
+</alarmconfig>

@@ -1,0 +1,42 @@
+<HTML>
+<HEAD><TITLE>WebVisualization</TITLE>
+<style type="text/css">
+/******* basic tags *******/
+body
+{
+margin: 0;
+padding: 0;
+}
+</style>
+<script>
+function CookieHandling()
+{
+applet = document.getElementById("webvisuapplet");
+stTodo = applet.databaseCookieInteraction();
+if (stTodo=="write")
+{
+	var expire = new Date();
+	var oneyearLater = expire.getTime() + 365 * 24 * 3600 * 1000;
+	expire.setTime(oneyearLater);
+	document.cookie=applet.databaseCookieGetValue() + ";expires=" + expire.toGMTString();
+}
+else if (stTodo=="read")
+{
+	applet.databaseCookieSetValue(document.cookie);
+}
+setTimeout("CookieHandling()", 2000);
+}
+</script>
+</HEAD>
+<BODY onload="CookieHandling()">
+	<APPLET CODEBASE=. CODE=webvisu/WebVisu.class name="WebVisu" width="99%" height="99%" id="webvisuapplet">
+	<param name="archive" value="webvisu.jar,minml.jar">
+	<param name="STARTVISU" value="V_">
+	<param name="PLC" value="PLC1">
+	<param name="OPC" value="http://CX_019B3F:5120/UPnPDevice/TcPlcDataServiceDa.dll">
+	<param name="UPDATETIME" value="500">
+	<param name="USECURRENTVISU" value="FALSE">
+	<param name="USEFIXSOCKETCONNECTION" value="FALSE">
+</APPLET>
+</BODY>
+</HTML>

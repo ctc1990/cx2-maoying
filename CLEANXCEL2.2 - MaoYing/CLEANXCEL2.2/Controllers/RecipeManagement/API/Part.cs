@@ -82,17 +82,23 @@ namespace CLEANXCEL2._2.Controllers.RecipeManagement.API
 
         public static List<List<string>> Get_SQLPart()
         {
-            List<List<string>> list = Controllers.SQL.Query.ExecuteMultiQuery(
-                "select part_info.part_name as part_id, " +
-                "part_info.name as part_name, " +
-                "part_info.description, " +
-                "part_info.recipe_name as recipe_id, " +
-                "recipe_id.name as recipe_name, " +
-                "part_info.batch_no from " +
-                "(select part.part_name, part_id.name, part.description, part.recipe_name, part.batch_no, part_id.status from part right join part_id on part.part_name = part_id.id) " +
-                "as part_info left join recipe_id on part_info.recipe_name = recipe_id.id " +
-                "where part_info.status = '1'",
-                new string[] { "part_id", "part_name", "description", "recipe_id", "recipe_name", "batch_no" });
+            //List<List<string>> list = Controllers.SQL.Query.ExecuteMultiQuery(
+            //    "select part_info.part_name as part_id, " +
+            //    "part_info.name as part_name, " +
+            //    "part_info.description, " +
+            //    "part_info.recipe_name as recipe_id, " +
+            //    "recipe_id.name as recipe_name, " +
+            //    "part_info.batch_no from " +
+            //    "(select part.part_name, part_id.name, part.description, part.recipe_name, part.batch_no, part_id.status from part right join part_id on part.part_name = part_id.id) " +
+            //    "as part_info left join recipe_id on part_info.recipe_name = recipe_id.id " +
+            //    "where part_info.status = '1'",
+            //    new string[] { "part_id", "part_name", "description", "recipe_id", "recipe_name", "batch_no" });
+
+            List<List<string>> list = Controllers.SQL.Query.ExecuteMultiQuery("" +
+               "select part_info.fk_part_id, part_info.part_name, part_info.description, part_info.recipe_id, recipe_id.name, part_info.batch_no from " +
+                       "(select part.fk_part_id, part_id.part_name, part.description, part.recipe_id, part.batch_no from part right join part_id on part.fk_part_id = part_id.id) " +
+                       "as part_info left join recipe_id on part_info.recipe_id = recipe_id.id",
+                       new string[] { "fk_part_id", "part_name", "description", "recipe_id", "name", "batch_no" });
 
             return list;
         }

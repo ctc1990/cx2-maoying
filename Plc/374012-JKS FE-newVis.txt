@@ -1,0 +1,8 @@
+0
+beckhoffhmitesting.xml
+whitegrey.bmp
+save.bmp
+copy paste2.bmp
+fe01 diagram3.bmp
+fe01 diagram2.bmp
+374012-jks fe-newvis.txt

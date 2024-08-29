@@ -1,0 +1,3 @@
+0
+basketmemoryvis.txt
+basketmemoryend.txt
